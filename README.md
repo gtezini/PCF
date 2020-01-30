@@ -5,6 +5,10 @@ This component was created to assist in the identification of individuals and le
 
 Just import the solution [GT_PCF_CpfCnpj.zip] to your Dynamics 365 and use the component in any text field.
 
+fieldType_Display_Key:
+- cpf
+- cnpj
+
  ![config](Images/CpfCnpj_pcf_config.png)
  
  ![cpf](Images/CpfCnpj_pcf_cpf.png)
