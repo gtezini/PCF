@@ -5,4 +5,6 @@ This component was created to assist in the identification of individuals and le
 
  ![config](Images/CpfCnpj_pcf_config.png)
  
+ ![cpf](Images/CpfCnpj_pcf_cpf.png)
  
+ ![cpf](Images/CpfCnpj_pcf_cnpj.png)
