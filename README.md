@@ -5,6 +5,4 @@ This component was created to assist in the identification of individuals and le
 
  ![config](Images/CpfCnpj_pcf_config.png)
  
- ![demo1](Videos/GT.PCF.CpfCnpj1.mp4)
  
- ![demo1](Videos/GT.PCF.CpfCnpj2.mp4)
